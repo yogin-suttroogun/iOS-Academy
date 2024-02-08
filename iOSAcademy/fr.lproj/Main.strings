@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "27a-g4-HMx"; */
+"27a-g4-HMx.normalTitle" = "Forgot password?";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "9RK-FB-ky5"; */
+"9RK-FB-ky5.placeholder" = "Username";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "QZe-c7-OVk"; */
+"QZe-c7-OVk.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Week 3: Segue & Navigation"; ObjectID = "Rt3-sm-jin"; */
+"Rt3-sm-jin.text" = "Week 3: Segue & Navigation";
+
+/* Class = "UIButton"; normalTitle = "Forgot username?"; ObjectID = "VQa-JV-TxP"; */
+"VQa-JV-TxP.normalTitle" = "Forgot username?";
+
+/* Class = "UIButton"; configuration.title = "Login using segue"; ObjectID = "am8-gs-eaL"; */
+"am8-gs-eaL.configuration.title" = "Login using segue";
+
+/* Class = "UIButton"; configuration.title = "Login using code"; ObjectID = "uhQ-Qx-vy7"; */
+"uhQ-Qx-vy7.configuration.title" = "Login using code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vER-92-uIM"; */
+"vER-92-uIM.text" = "Label";
